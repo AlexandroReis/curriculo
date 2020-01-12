@@ -1,0 +1,15 @@
+{
+  "name": "curriculo",
+  "version": "1.0.0",
+  "description": "Projeto curso #FULLSTACKMASTER - Desenvolvimento curriculo web on-line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexandro Reis",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1"
+  }
+}

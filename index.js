@@ -11,7 +11,7 @@ app.use(express.static(path.join(__dirname, 'public')))
 app.get('/', async (req, res) => {
     res.render('home', { date: new Date() })
 })
-
+//comment
 app.listen(port, err => {
     if(err) console.log('Unable to start node server!')
     else console.log('Server running...')
